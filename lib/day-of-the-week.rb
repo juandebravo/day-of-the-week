@@ -1,3 +1,4 @@
+require "bundler/setup"
 require 'date'
 require 'params-validator'
 #require 'logger'
